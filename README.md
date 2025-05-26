@@ -11,7 +11,7 @@
 <b>Name of Developer | <b> Rajeev Sir
 :--|:--|
 <b> insititute  | <b> REC Kannauj 
-<b> email id|     <b> anandchaurasia4321@gmail.com 
+<b> email id|     <b> rajeev@reck.ac.in
 <b> department |  electronics engineering
 
 ### Contributors List
