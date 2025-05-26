@@ -4,24 +4,21 @@
 <b>Discipline | <b>communication engineering
 :--|:--|
 <b> Lab | <b> communication lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> 1) To study dsb/ssb Amplitude Modulation and determine its modulation factor 
 
-### About the Experiment 
+ 
 
-1) To study dsb/ssb Amplitude Modulation and determine its modulation factor 
-2)To study of single bit error detection and correction using hammer code.
-3)To study of quadrature phase shift keying Modulator and demodulator.
-4) To construction a square wave with the help of fundamental frequency of its harmonic component.
-
-<b>Name of Developer | <b> Tech Wizard 
+<b>Name of Developer | <b> Rajeev Sir
 :--|:--|
-<b> Rajkiye Engineering college | <b>  
-<b> anandchaurasia4321@gmail.com|     <b>  
-<b> electronics |  
+<b> insititute  | <b> REC Kannauj 
+<b> email id|     <b> anandchaurasia4321@gmail.com 
+<b> department |  electronics engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|Anand Chaurasia:--|electronics engineering:--|REC Kannuaj:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+:--|:--|:--|:--|:--|:--|
+1 |Nikita Yadav| Rajeev sir | Electronics | REC Kannuaj |nikitayadav23456@gmail.com
+2 |Kiran Gond | Rajeev sir | Cs | REC Kannuaj |kirangond2439@gmail.com
+3 |Anand Chaurasia |Rajeev sir | Electronics | REC Kannuaj |anandchaurasia4321@gmail.com
+4 |OM Yadav| Rajeev sir | Electronics | REC Kannuaj |omy6260@gmail.com
