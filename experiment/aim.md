@@ -1,1 +1,2 @@
-### o study of single bit error detection and correction using hammer code.
+### o To study of quadrature phase shift keying Modulator and demodulator.
+
