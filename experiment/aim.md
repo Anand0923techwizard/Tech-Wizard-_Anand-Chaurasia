@@ -1,2 +1,2 @@
-### o To study of quadrature phase shift keying Modulator and demodulator.
+### o To study a DSB/SSB Amplitude Modulation and determines its modulation factor.
 
