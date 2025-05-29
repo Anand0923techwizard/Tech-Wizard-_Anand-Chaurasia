@@ -1,11 +1,10 @@
 EMPTY
 <!-- Remove all lines above this line before making changes to the file -->
 ### Subject Matter Experts
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+| SNo.1 | Nikita Yadav | nikitayadav23456@gmail.com| RECK | ID |
+| SNo.2 | OM Yadav | omyyadav62@gmail.com| RECK | ID |
+| SNo.3 | Anand Chaurasia| anandchaurasia@gmail.com| RECK | ID |
+
 
 ### Developers
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+| SNo. | Kiran Gond | kirangond2439@gmail.com | RECK | ID|
