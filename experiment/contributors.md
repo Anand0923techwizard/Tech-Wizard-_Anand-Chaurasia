@@ -5,7 +5,7 @@ EMPTY
 
 | SNo.2 | OM Yadav | omyyadav6260@gmail.com| RECK | ID |
 
-| SNo.3 | Anand Chaurasia| anandchaurasia@gmail.com| RECK | ID |
+| SNo.3 | Anand Chaurasia| anandchaurasia4321@gmail.com| RECK | ID |
 
 
 ### Developers
